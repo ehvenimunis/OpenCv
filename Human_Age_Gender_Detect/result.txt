@@ -1,0 +1,19 @@
+Okunan Resim - images/Elon_Musk.jpg
+Cinsiyet: Male
+Yaş: (48-53)
+
+Okunan Resim - images/Etki.jpg
+Cinsiyet: Female
+Yaş: (0-2)
+
+Okunan Resim - images/Recep_Tayyip_Erd.jpg
+Cinsiyet: Male
+Yaş: (60-100)
+
+Okunan Resim - images/fatih-altayli.jpg
+Cinsiyet: Male
+Yaş: (60-100)
+
+Okunan Resim - images/iha.jpg
+Cinsiyet: Male
+Yaş: (25-32)
